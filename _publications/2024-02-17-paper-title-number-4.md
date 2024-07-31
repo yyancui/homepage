@@ -1,5 +1,4 @@
 ---
-collection: publications
 Cui, Y., Yang, J. and Zhou, Z. (2023) State-domain change point detection for nonlinear time series regression. \textit{Journal of Econometrics}, 234, 3--27.
 ---
 
